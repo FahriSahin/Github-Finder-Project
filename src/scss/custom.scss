@@ -1,0 +1,22 @@
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~bootstrap-icons/font/bootstrap-icons.scss';
+button a{
+    text-decoration: none;
+    color: #fff;
+}
+li{
+    font-weight: 300;
+}
+img{
+    width: 100%;
+}
+.loading_icon{
+    width: 5em;
+    height: 5em;
+}
+input{
+    width: calc(100% - 93px) !important;
+}
+.alert{
+    width: 24rem !important;
+}
